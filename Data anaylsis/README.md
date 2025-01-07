@@ -8,3 +8,4 @@ After cleaning the dataset, our next step is the analysis. In this stage, we wil
 4. Compute the Inter Quartile Range.
 5. Find out the upper and lower bounds, and find correlations between numerical features.
 6. Create a new data frame.
+
