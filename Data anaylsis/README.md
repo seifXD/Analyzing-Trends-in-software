@@ -1,4 +1,4 @@
-# Task 3
+# Part 3
 
 After cleaning the dataset, our next step is the analysis. In this stage, we will become more familiar with the data set and it will start to take shape. In this assignment, we will:
 
