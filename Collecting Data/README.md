@@ -1,4 +1,4 @@
-# Task 1
+# Part 1
 
 ## Gather Data Using APIs
 
