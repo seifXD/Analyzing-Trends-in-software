@@ -1,5 +1,5 @@
-# Task 1
-
+# Part 1
+ 
 ## Gather Data Using APIs
 
 Our assignment is to get the number of job openings using the GitHub Jobs API for technologies like:

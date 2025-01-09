@@ -1,4 +1,4 @@
-# Task 2
+# Part 2
 
 Data Wrangling or Munging is a process in which we clean up the data set and make it ready for data analysis. In this assignment we will perform the following tasks:
 
